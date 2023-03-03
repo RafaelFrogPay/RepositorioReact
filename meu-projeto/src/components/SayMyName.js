@@ -1,7 +1,7 @@
-function SeyMyName (props){
+function SeyMyName (nome){
   return (
     <div>
-      <p>Olá {props.nome}, tudo bem? </p>
+      <p>Olá {nome}, tudo bem? </p>
     </div>
   )
 }
