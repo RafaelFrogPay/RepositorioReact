@@ -1,6 +1,6 @@
 import './App.css'
 import HelloWorld from './components/HelloWorld'
-import SeyMyName from './components/SayMyName'
+import SeyMyName from './components/SeyMyName'
 import Pessoa from './components/Pessoa'
 
 function App() {
